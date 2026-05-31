@@ -1,2 +1,2 @@
 # python-web-scraper
-A Python web scraper that extracts book data from books.toscrape.com and saves it to a CVS file
+A Python web scraper built with BeautifulSoup that extracts book data (title, price, rating, availability) from books.toscrape.com across multiple pages and exports results to a CSV file.
